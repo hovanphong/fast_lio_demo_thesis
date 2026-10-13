@@ -1,0 +1,3 @@
+rosbag play kth_night_05_mid70.bag kth_night_05_vn200.bag --clock -r 0.7
+roslaunch fast_lio mapping_velodyne.launch
+rosbag play 
