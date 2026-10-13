@@ -1,0 +1,5 @@
+*.bag
+build/
+devel/
+logs/
+*.bag
